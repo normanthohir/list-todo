@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "593894156082",
+    "firebase_url": "https://workshop-flutter-firebase-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "workshop-flutter-firebase",
+    "storage_bucket": "workshop-flutter-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593894156082:android:793ff4740e2b7fe621992b",
+        "android_client_info": {
+          "package_name": "com.example.workshop_flutter_firebases"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXPw2IY7Jm_B1I0ZPQYSutUwOgUIs09P4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
